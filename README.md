@@ -9,7 +9,7 @@ Ebook sobre Machine Learning para iniciantes com linguagem simplificada e com ex
    * Libre Office para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre Machine Learning, estruturar o conteúdo e refinar minhas ideias. Também foi utilizado o "Leonardo AI" para gerar imagens exclusivas para o e-book. Por fim, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre Machine Learning, estruturar o conteúdo e refinar minhas ideias. Também foi utilizado o "Leonardo AI" para gerar imagens especialmente para o e-book. Por fim, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
 O e-book é perfeito para quem quer explorar o mundo do Machine Learning supervisionado de forma simples e envolvente, transformando conceitos complexos em algo visualmente cativante e fácil de entender.
