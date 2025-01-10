@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Desvendando o Machine Learning: Um guia para iniciantes
 
 ## 📒 Descrição
 Breve descrição do seu projeto
